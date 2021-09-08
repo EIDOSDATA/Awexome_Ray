@@ -1,0 +1,11 @@
+C:\Users\eidos\Desktop\Termie\bin\Debug\Termie.exe
+C:\Users\eidos\Desktop\Termie\bin\Debug\Termie.pdb
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.csprojAssemblyReference.cache
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.AboutBox.resources
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.Form1.resources
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.Form2.resources
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.Properties.Resources.resources
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.csproj.GenerateResource.cache
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.csproj.CoreCompileInputs.cache
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.exe
+C:\Users\eidos\Desktop\Termie\obj\Debug\Termie.pdb
